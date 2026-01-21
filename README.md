@@ -61,7 +61,7 @@ I am building an end-to-end data platform, module by module.
 
 ## 🎯 2025-2026 Goals
 
-- [x] Complete **CS50x: Introduction to Computer Science** ([✨Click to check Certificate✨]([https://cs50.harvard.edu/x/](https://certificates.cs50.io/3ec86847-1a54-4293-84fe-25fcbfd53c89.pdf?size=letter))) 🎓
+- [x] Complete **CS50x: Introduction to Computer Science** ([Click to check Certificate](https://certificates.cs50.io/3ec86847-1a54-4293-84fe-25fcbfd53c89.pdf?size=letter)) 🎓
 - [ ] Master **Data Engineering Zoomcamp** & deploy final project 🏗️
 - [ ] Complete **AI Dev Tools Zoomcamp** to boost productivity ⚡
 - [ ] Open Source my **Obsidian Knowledge Base** (Digital Garden) 🧠
