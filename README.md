@@ -1,4 +1,4 @@
-# Hi there, I'm Stanislav 👋
+# Hi there, I'm Stan 👋
 
 <div align="center">
 
