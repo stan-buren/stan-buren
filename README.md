@@ -1,3 +1,4 @@
+<img width="4000" height="2250" alt="DATA ENGINEERING ZOOMCAMP SERTIFICATE" src="https://github.com/user-attachments/assets/eda2566d-b76c-4a10-b924-14a5968babbc" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=15,2,10,30&text=Stan%20B%C3%BCren&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Data%20Engineer%20%7C%20MLOps&descAlignY=55&descSize=18" alt="header" />
 </p>
@@ -78,7 +79,6 @@ Furthermore, I am a strong practitioner of **Artificial Intelligence**. I active
 ![uv](https://img.shields.io/badge/uv-000000?style=flat-square&logo=uv&logoColor=white)
 ![just](https://img.shields.io/badge/just-000000?style=flat-square&logo=just&logoColor=white)
 
-
 ## Certificates
 
 <p align="center">
@@ -92,7 +92,7 @@ Furthermore, I am a strong practitioner of **Artificial Intelligence**. I active
 
 <p align="center">
   <a href="https://certificate.datatalks.club/dezoomcamp/2026/ff6f422c84273af947313da6afec88f21299e1b2.pdf" target="_blank">
-    <img src="docs/assets/dezoomcamp_2026.png" width="70%" alt="Data Engineering Zoomcamp Certificate" />
+    <img src="https://github.com/user-attachments/assets/2c82d0b9-e44c-43dd-9ce0-65916804a2ee" width="70%" alt="Data Engineering Zoomcamp Certificate" />
   </a>
 </p>
 
