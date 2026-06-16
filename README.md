@@ -15,7 +15,7 @@
 
 #### I'm Stan Büren
 
-I am a **Data Engineer** building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. I bring **3+ years of business & compliance experience**, coupled with **2+ years of hands-on experience** in engineering and programming within production environments.
+I am an insiped **Data Engineer** shifting to a **Data Architect** building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. I bring **3+ years of business & compliance experience**, coupled with **2+ years of hands-on experience** in engineering and programming within production environments.
 
 ---
 
