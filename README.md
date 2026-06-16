@@ -15,7 +15,8 @@
 
 #### I'm Stan Büren
 
-I am an inspired **Data Engineer** shifting to a **Data Architect** building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. I bring **3+ years of business & compliance experience**, coupled with **2+ years of hands-on experience** in engineering and programming within production environments.
+**Forward-thinking Data Engineer** evolving into a **Data Architect**, skilled in building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. Combines **3+ years of business & compliance experience** with **2+ years of hands-on engineering and programming experience** within production environments.
+
 
 ---
 
@@ -23,7 +24,7 @@ I am an inspired **Data Engineer** shifting to a **Data Architect** building rel
 
 > **"My architectural focus is on treating data as a product."**
 
-*   **Quality-First Engineering:** I prioritize data quality and apply rigorous software engineering best practices to distributed systems so that downstream analysts and data scientists can generate value without friction.
+*   **Quality-First Engineering:** I prioritize data quality and apply rigorous software engineering best practices to distributed systems so that downstream analysts and data scientists can derive value without friction.
 *   **Declarative Logic:** I strongly advocate for declarative, easily readable logic, such as modular SQL in **dbt** or well-documented **PySpark** transformations. 
 *   **Production Stability:** A robust pipeline is not just about moving data from Point A to Point B; it is about testing, governing, and securing it along the way—especially when navigating strict compliance frameworks like **DORA** and the **EU AI Act**.
 
@@ -33,7 +34,8 @@ I am an inspired **Data Engineer** shifting to a **Data Architect** building rel
 
 To me, data engineering is the ultimate intersection of **security**, **data management**, **DataOps**, **data architecture**, **orchestration**, and **software engineering**. I am highly communicative, endlessly curious, and deeply passionate about continuous learning.
 
-Furthermore, I am a strong practitioner of **Artificial Intelligence**. I actively leverage modern AI tooling in my daily workflows to dramatically shift my productivity, accelerate my learning effectiveness, and deliver faster, higher-quality results for the business.
+Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern AI tooling in my daily workflows to significantly boost my productivity, accelerate my learning curve, and deliver faster, higher-quality results for the business.
+
 
 ## 🛠 Tech Stack
 
