@@ -182,6 +182,9 @@ Designed as a responsive, content-rich web platform for a real children's theatr
 
 Feel free to reach out for collaborations, data engineering discussions, or just to say hello!
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="stan-büren-b944a641a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ge.linkedin.com/in/stan-b%C3%BCren-b944a641a?trk=profile-badge">Stan Büren</a></div>
+
 *   💬 **Telegram:** [@stan_buren](https://t.me/stan_buren)
 *   🐦 **X (Twitter):** [@stan_buren](https://x.com/stan_buren)
 *   📧 **Email:** [stan-buren-dev@proton.me](mailto:stan-buren-dev@proton.me)
+  
