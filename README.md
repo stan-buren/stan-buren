@@ -42,6 +42,45 @@ Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern A
 <table>
 <tr>
 <td align="center" width="160"><b>💻 Languages</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,bash,sql&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases<br/>& Storage</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,bigquery,duckdb,apacheiceberg&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Cloud & IaC</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,terraform,docker,linux,githubactions,traefik,nginx&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Data<br/>Engineering</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark,dbt,airflow,apachekafka,pandas,polars&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🧠 ML &<br/>MLOps</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,safetensors,sigstore,tensorboard&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>📊 Visualization</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit,grafana,looker,prometheus&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🛠️ Dev Tools</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,uv,pytest,ruff,mypy,trivy,precommit&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Web &<br/>Self-Hosted</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=astro,html,css,typescript,cloudflare,nextcloud,mattermost&theme=dark" /></td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<table>
+<tr>
+<td align="center" width="160"><b>💻 Languages</b></td>
 <td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,bash&theme=dark" /></td>
 </tr>
 <tr>
