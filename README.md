@@ -100,93 +100,6 @@ Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern A
 ![Nextcloud](https://img.shields.io/badge/NEXTCLOUD-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![Mattermost](https://img.shields.io/badge/MATTERMOST-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)
 
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td align="center" width="160"><b>💻 Languages</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,bash,sql&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases<br/>& Storage</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,bigquery,duckdb,apacheiceberg&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>☁️ Cloud & IaC</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,terraform,docker,linux,githubactions,traefik,nginx&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Data<br/>Engineering</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark,dbt,airflow,apachekafka,pandas,polars&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🧠 ML &<br/>MLOps</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,safetensors,sigstore,tensorboard&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>📊 Visualization</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit,grafana,looker,prometheus&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🛠️ Dev Tools</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,uv,pytest,ruff,mypy,trivy,precommit&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🌐 Web &<br/>Self-Hosted</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=astro,html,css,typescript,cloudflare,nextcloud,mattermost&theme=dark" /></td>
-</tr>
-</table>
-
----
-
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td align="center" width="160"><b>💻 Languages</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,bash&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,bigquery,duckdb&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>☁️ Cloud</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,snowflake&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Infrastructure</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform,docker,githubactions,git,linux&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🔧 Data<br/>Engineering</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,pyspark&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>📊 Visualization</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,streamlit&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Webpages</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,astro,cloudflare&theme=dark" /></td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Apache_Iceberg-005577?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
-  <img src="https://img.shields.io/badge/SeaweedFS-008080?style=flat-square" alt="SeaweedFS" />
-  <img src="https://img.shields.io/badge/MinIO-C92847?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/Redpanda-FF0000?style=flat-square&logo=redpanda&logoColor=white" alt="Redpanda" />
-  <img src="https://img.shields.io/badge/Traefik-006093?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
-  <img src="https://img.shields.io/badge/Kestra-8D50F8?style=flat-square" alt="Kestra" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=deepmind&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/uv-000000?style=flat-square&logo=uv&logoColor=white" alt="uv" />
-  <img src="https://img.shields.io/badge/just-000000?style=flat-square&logo=just&logoColor=white" alt="just" />
-</p>
 
 ## Certificates
 
@@ -294,7 +207,32 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 
 ---
 
+### 🏠 [ [ INFRA ] Home Lab: Self-Hosted Infrastructure Cluster ](https://nextcloud.stan-buren.ru)
 
+> **20+ Docker services across 3 bare-metal Ubuntu nodes. Custom domain, automatic TLS, remote access from anywhere via sing-box tunnel. No SaaS.**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-Reverse_Proxy-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/TLS-Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![sing-box](https://img.shields.io/badge/sing--box-VLESS_REALITY-00BFFF?style=flat-square)
+![AdGuard](https://img.shields.io/badge/AdGuard_Home-DNS-68BC71?style=flat-square&logo=adguard&logoColor=white)
+![Immich](https://img.shields.io/badge/Immich-Google_Photos_Killer-4255FF?style=flat-square&logo=immich&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-Bitwarden_API-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Gateway-black?style=flat-square)
+![Hermes](https://img.shields.io/badge/Hermes-MacBook_Agent-white?style=flat-square)
+
+Three physical machines — a Dell tower, an ASUS laptop, and an HP workstation — all running Ubuntu 24.04 LTS, operating as a distributed home cluster. Every service is containerized, reverse-proxied through Traefik with automatic Let's Encrypt TLS, and accessible from anywhere through a sing-box encrypted tunnel. The goal: own every byte of personal data without renting a single SaaS subscription.
+
+* **Cloud & Productivity Self-Hosting:** **Nextcloud** replaces Google Drive + Google Calendar + Google Contacts — files, calendars, contacts, and kanban boards via Deck. **Vaultwarden** (Bitwarden-compatible) holds every password for the whole family, secured behind the same reverse proxy. **Mattermost** runs team chat with full message history. **Actual Budget** tracks personal finances with envelope budgeting.
+* **AI Agent Infrastructure:** **OpenClaw** runs as a 24/7 AI gateway on the home server — heartbeats, cron jobs, background sub-agents for long-running tasks. **Hermes** is the personal laptop agent, governing the same infrastructure through MCP servers. Both agents share a persistent memory system with daily logs and curated long-term memory. Agents provision other agents — scoped app-passwords, SSH configs, validated YAML — under the same "backup first, verify after" discipline as production infrastructure.
+* **Media Server Suite:** **Immich** auto-backs up phone photos with face recognition and shared albums (Google Photos replacement). **Navidrome** streams the music library to any Subsonic-compatible client. **Audiobookshelf** serves audiobooks and podcasts with per-user progress, chapter support, and sleep timers. **AutoM4B** automates audiobook chapterization and conversion. **Jellyfin** handles video streaming with hardware transcoding.
+* **Network & Security:** **AdGuard Home** blocks ads and trackers at the DNS level for every device on the network. **sing-box** (VLESS+REALITY protocol) provides an encrypted tunnel back home from anywhere in the world — split-tunnel routing sends Russian traffic direct, international traffic through a Swiss VPN exit node. **Uptime Kuma** monitors every service and pings Telegram on failure.
+* **Observability Stack:** **Grafana** dashboards visualize system metrics collected by **Prometheus** and **node_exporter** on each machine — CPU, memory, disk I/O, network throughput, Docker container status. **Homepage** provides a centralized launchpad for all 20+ services.
+* * **Privacy Research Tools:** **SearXNG** runs as a private metasearch engine — queries never leave the server. **Invidious** provides a tracking-free YouTube frontend. **Yattee** connects to a self-hosted backend for privacy-respecting video playback.
+* **Planned:** **K3s** (lightweight Kubernetes) to orchestrate workloads across all 3 nodes as a proper cluster, with automated failover and load balancing.
+
+> Photos aren't in Google Photos. Passwords aren't in LastPass. Files aren't in Dropbox. Chat isn't in Slack. Not even my AI agents live in the cloud. Everything runs on three Linux boxes behind a reverse proxy, and that's the point.
 
 ---
 
