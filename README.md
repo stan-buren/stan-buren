@@ -236,16 +236,17 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Gateway-black?style=flat-square)
 ![Hermes](https://img.shields.io/badge/Hermes-MacBook_Agent-white?style=flat-square)
 
-Three physical machines — a Dell tower, an ASUS laptop, and an HP workstation — all running Ubuntu 24.04 LTS, operating as a distributed home cluster. Every service is containerized, reverse-proxied through Traefik with automatic Let's Encrypt TLS, and accessible from anywhere through a sing-box encrypted tunnel. The goal: own every byte of personal data without renting a single SaaS subscription.
+Three physical machines — a Dell tower, an ASUS laptop, and an HP workstation — all running Ubuntu 24.04 LTS, operating as a distributed home cluster. 
+Every service is containerized, reverse-proxied through Traefik with automatic Let's Encrypt TLS, and accessible from anywhere through the https://... domain. 
 
-* **Cloud & Productivity Self-Hosting:** **Nextcloud** replaces Google Drive + Google Calendar + Google Contacts — files, calendars, contacts, and kanban boards via Deck. **Vaultwarden** (Bitwarden-compatible) holds every password for the whole family, secured behind the same reverse proxy. **Mattermost** runs team chat with full message history. **Actual Budget** tracks personal finances with envelope budgeting.
-* **AI Agent Infrastructure:** **OpenClaw** runs as a 24/7 AI gateway on the home server — heartbeats, cron jobs, background sub-agents for long-running tasks. **Hermes** is the personal laptop agent, governing the same infrastructure through MCP servers. Both agents share a persistent memory system with daily logs and curated long-term memory. Agents provision other agents — scoped app-passwords, SSH configs, validated YAML — under the same "backup first, verify after" discipline as production infrastructure.
-* **Media Server Suite:** **Immich** auto-backs up phone photos with face recognition and shared albums (Google Photos replacement). **Navidrome** streams the music library to any Subsonic-compatible client. **Audiobookshelf** serves audiobooks and podcasts with per-user progress, chapter support, and sleep timers. **AutoM4B** automates audiobook chapterization and conversion.
-* **Network & Security:** **AdGuard Home** blocks ads and trackers at the DNS level for every device on the network, then forwards clean queries to **Unbound**. **sing-box** (VLESS+REALITY protocol) provides an encrypted tunnel back home from anywhere in the world — split-tunnel routing sends Russian traffic direct, international traffic through a VPN exit node. **Uptime Kuma** monitors every service and pings Telegram on failure.
-* **Observability Stack:** **Grafana** dashboards visualize system metrics collected by **Prometheus** and **node_exporter** on each machine — CPU, memory, disk I/O, network throughput, Docker container status. **Homepage** provides a centralized launchpad for all 20+ services.
-* * **Privacy Research Tools:** **SearXNG** runs as a private metasearch engine — queries never leave the server. **Invidious** provides a tracking-free YouTube frontend. **Yattee** connects to a self-hosted backend for privacy-respecting video playback.
-* **Power Resilience:** A **CBR 850 UPS** monitored via NUT (Network UPS Tools) is connected to the ASUS master. On grid failure, it signals clean shutdowns across all three nodes — preventing filesystem corruption and Docker state loss before the battery drains.
-* **Apache Spark 4.1.1 cluster** spans all three nodes.
+* **Cloud & Productivity Self-Hosting:** **Nextcloud** - local-first local cloud. **Vaultwarden** (Bitwarden-compatible) holds every password. **Mattermost** runs personal chat. **Actual Budget** tracks personal finances.
+* **AI Agent Infrastructure:** **OpenClaw** AI assistant. **Hermes** Yet another Ai assistant.
+* **Media Server Suite:** **Immich** auto-backs up phone photos . **Navidrome** streams the music library to any Subsonic-compatible client. **Audiobookshelf** serves audiobooks and podcasts.
+* **Network & Security:** **AdGuard Home** blocks ads and trackers, then forwards clean queries to **Unbound**. **sing-box** (VPN tunnel) provides an encrypted tunnel back home. **Uptime Kuma** monitors every service.
+* **Observability Stack:** **Grafana** dashboards visualize system metrics collected by **Prometheus** and **node_exporter** on each machine. **Homepage** provides a centralized launchpad for all 20+ services.
+* * **Privacy Research Tools:** **SearXNG** runs as a private metasearch engine. 
+* **Power Resilience:** A **CBR 850 UPS** monitored via NUT (Network UPS Tools). Activates custom bash script for the graceful cluster poweroff.
+* **Apache Spark 4.1.1 cluster** spans all three nodes. Queries uses all cores across laptops.
 * **Planned:** **K3s** (lightweight Kubernetes) to orchestrate workloads across all 3 nodes as a proper cluster, with automated failover and load balancing.
 
 ---
