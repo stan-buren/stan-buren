@@ -175,8 +175,11 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 *   **Analytics Engineering & BI:** Implements staging and metrics mart layers in **dbt** (calculating running averages of exhaust temperature margins) and visualizes engine degradation in a **Streamlit** dashboard.
 
 ### 🎭 [Russian Children Educational Theatre-Studio Website](https://github.com/stan-buren/emozika-theatre) 
+
 [Live Site - studio](https://emocika-teatr.ru/)
+
 [Live Site - play](https://lubov.emocika-teatr.ru/))
+
 > **A modern, data-driven static website for a children's theatre studio in Saint Petersburg.**
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
