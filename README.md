@@ -230,7 +230,7 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ![Let's Encrypt](https://img.shields.io/badge/TLS-Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 ![sing-box](https://img.shields.io/badge/sing--box-VLESS_REALITY-00BFFF?style=flat-square)
 ![AdGuard](https://img.shields.io/badge/AdGuard_Home-DNS-68BC71?style=flat-square&logo=adguard&logoColor=white)
-![Unbound](https://img.shields.io/badge/UNBOUND-Recursive_DNS-3B8132?style=for-the-badge)
+![Unbound](https://img.shields.io/badge/UNBOUND-Recursive_DNS-3B8132?style=flat-square)
 ![Immich](https://img.shields.io/badge/Immich-Google_Photos_Killer-4255FF?style=flat-square&logo=immich&logoColor=white)
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-Bitwarden_API-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Gateway-black?style=flat-square)
