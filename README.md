@@ -244,7 +244,7 @@ Every service is containerized, reverse-proxied through Traefik with automatic L
 * **Media Server Suite:** **Immich** auto-backs up phone photos . **Navidrome** streams the music library to any Subsonic-compatible client. **Audiobookshelf** serves audiobooks and podcasts.
 * **Network & Security:** **AdGuard Home** blocks ads and trackers, then forwards clean queries to **Unbound**. **sing-box** (VPN tunnel) provides an encrypted tunnel back home. **Uptime Kuma** monitors every service.
 * **Observability Stack:** **Grafana** dashboards visualize system metrics collected by **Prometheus** and **node_exporter** on each machine. **Homepage** provides a centralized launchpad for all 20+ services.
-* * **Privacy Research Tools:** **SearXNG** runs as a private metasearch engine. 
+* **Privacy Research Tools:** **SearXNG** runs as a private metasearch engine. 
 * **Power Resilience:** A **CBR 850 UPS** monitored via NUT (Network UPS Tools). Activates custom bash script for the graceful cluster poweroff.
 * **Apache Spark 4.1.1 cluster** spans all three nodes. Queries uses all cores across laptops.
 * **Planned:** **K3s** (lightweight Kubernetes) to orchestrate workloads across all 3 nodes as a proper cluster, with automated failover and load balancing.
