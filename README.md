@@ -105,44 +105,59 @@ Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern A
 
 ## 📁 Projects
 
-### ⚡ [ENTSO-E Data Pipeline & Lakehouse](https://github.com/stan-buren/entsoe-quickstart)
-> **A production-ready metadata ingestion engine and local lakehouse orchestrator for European power grid data.**
+### ⚡ [ [ PLATFORM ] ENTSO-E FMS Trino platform ](https://github.com/stan-buren/entsoe-quickstart)
+> **The European power grid, finally queryable. A 7-layer data platform turning 218,000+ FTP files into a queryable Apache Iceberg lakehouse with Trino SQL.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-005577?style=flat-square&logo=apache&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-74K_records-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-4.1.1-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Iceberg-Silver_Layer-1E90FF?style=flat-square&logo=apache&logoColor=white)
+![SeaweedFS](https://img.shields.io/badge/SeaweedFS-S3_API-2E7D32?style=flat-square&logo=amazons3&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Marts-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-SQL_Engine-DD00A1?style=flat-square&logo=trino&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SeaweedFS](https://img.shields.io/badge/SeaweedFS-008080?style=flat-square)
-![uv](https://img.shields.io/badge/uv-000000?style=flat-square&logo=uv&logoColor=white)
 
-This repository implements a scalable data ingestion layer pulling electrical transmission metadata from the ENTSO-E platforms. It features a layered, fully testable I/O structure that separates raw client fetches from cloud storage uploads.
+![pytest](https://img.shields.io/badge/tests-244-brightgreen?style=flat-square&logo=pytest&logoColor=white)
+![Coverage](https://img.shields.io/badge/coverage-82.51%25-green?style=flat-square)
+![ADRs](https://img.shields.io/badge/ADRs-10-blueviolet?style=flat-square)
+![Ruff](https://img.shields.io/badge/Ruff-Linting-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![Trivy](https://img.shields.io/badge/Trivy-Security_Scan-1904DA?style=flat-square&logo=trivy&logoColor=white)
 
-*   **Layered I/O & Emulated Lakehouse:** Orchestrates dynamically configured sync routines (using standard `pytest` mocks) and syncs data to a local **SeaweedFS S3** instance running **Apache Iceberg** tables on **Spark 4.1.1**.
-*   **Centralized Path SSOT:** All directory layouts are declaratively configured in `paths.yml` (Single Source of Truth), dynamically populated as Python `Path` objects, and audited via AST-based quality gates to prevent hardcoding.
-*   **Configurable Ingestion Scopes:** Developers can declaratively select specific power grid domains (Load, Generation, Transmission) to ingest via YAML configurations.
-*   **Strict Observability:** Uses structured logging, custom domain exceptions, and localized limits config to prevent API rate-limiting issues.
+A solo-built, open-source data platform for ENTSO-E — the European electricity grid's transparency system. 218,000+ files across 89 publications, 94 unique schemas. Built from scratch: Python crawlers → PostgreSQL metadata catalog (74K records) → ephemeral S3 landing zone → PySpark MERGE INTO Apache Iceberg → dbt marts → Trino SQL.
 
-### 🛡️ [N-CMAPSS Telemetry Factory: Predictive Maintenance Digital Twin](https://github.com/stan-buren/n-cmapss-rul-mlops-factory)
-> **An industrial-grade real-time MLOps pipeline estimating engine Remaining Useful Life (RUL) via Bayesian Inference.**
+* **YAML-Driven SSOT Architecture:** All configuration declarative: `paths.yml` for filesystem layout, `publications.yml` for 89 data sources. AST-based quality gates prevent hardcoding. Environment-aware (PROD/IOP).
+* **Delta Sync & Idempotent Loads:** What was a 3-hour full FTP crawl is now a ~5-minute delta check. PySpark `MERGE INTO` Iceberg with stable keys — blow the pipeline away, rerun, same result.
+* **ADR-Driven Solo Engineering:** 10 Architecture Decision Records documenting every trade-off: YAML→PostgreSQL migration (ADR-008: 12.4 GB RAM → O(1) memory), ephemeral landing zone (ADR-004), dynamic schema inference (ADR-010).
+* **Open-Source Contributions:** Merged fix in PyPSA-Eur (PR #2211), data quality PR in powerplantmatching under review (PR #306: recovered 99.99% of silently dropped identifiers).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Redpanda](https://img.shields.io/badge/Redpanda-FF0000?style=flat-square&logo=redpanda&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Sigstore](https://img.shields.io/badge/Sigstore-000000?style=flat-square&logo=sigstore&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+---
 
-This project features a real-time streaming telemetry pipeline and a complete MLOps lifecycle. The core Bayesian Variational Inference (Flipout) model is trained on Google Cloud Platform (GCP) using high-performance compute nodes, then packaged and cryptographically signed before deployment for inference.
+### 🛡️ [ [ HIGH RISK ] Aircraft turbine Digital Twin: Predictive Maintenance in Real Time](https://github.com/stan-buren/n-cmapss-rul-mlops-factory)
+> **Make Bayesian CNN research code face the EU AI Act. Industrial MLOps pipeline: train on GCP HPC, sign with Sigstore, deploy to real-time streaming inference — without editing a single line of the original research code.**
 
-*   **High-Performance GCP Training Loop:** Orchestrates automated training runs on ephemeral **GCP Compute Engine** instances (AMD Milan-based **C2D High-Performance** instances) provisioned via **Terraform**. Preprocesses massive NASA HDF5 telemetry datasets in parallel across 32 cores, computing global Z-score statistics before training.
-*   **Keyless Attestation & Secure MLOps:** Hardens model distribution by exporting weights as **SafeTensors**, generating keyless cryptographic signatures via **Sigstore / Cosign** on the GCS-integrated worker, and publishing build metadata (`provenance.json`) to Google Artifact Registry.
-*   **Bayesian VI & Flight Class Analysis:** Solves short-haul vs long-haul mission estimation drift using **Bayesian CNNs** to output both RUL predictions and a real-time confidence/uncertainty (Sigma) threshold.
-*   **Hardware Isolation Shim:** Employs an adaptive runtime shim layer that dynamically intercepts research-grade execution parameters (via metaclass hooks) to force CPU execution and prevent CUDA runtime crashes on edge serving nodes.
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.11-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SafeTensors](https://img.shields.io/badge/SafeTensors-zero_RCE-00C7B7?style=flat-square)
+![Sigstore](https://img.shields.io/badge/Cosign-Keyless_Signing-000000?style=flat-square&logo=sigstore&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Non_Root-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-3_Modules-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-HPC_32_Core-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-Analytical_DWH-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-Sentinel-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Redpanda](https://img.shields.io/badge/Redpanda-Kafka_API-FF5500?style=flat-square&logo=apachekafka&logoColor=white)
 
-### ✈️ [C-MAPSS Factory 4.0: Scalable Engine Telemetry Pipeline](https://github.com/stan-buren/cmapss-streaming-pipeline)
-> **An enterprise-grade, real-time data engineering pipeline streaming aircraft engine telemetry.**
+A researcher wrote a Bayesian CNN for aircraft engine failure prediction. It works on his GPU. This repo makes it production-ready: CPU-only via adaptive runtime shim, SafeTensors instead of pickle, Sigstore keyless signing, and a 4-node real-time streaming pipeline (Redpanda → Bayesian inference → DuckDB → Streamlit dashboard).
+
+* **14-point Adaptive Shim:** Surgical monkeypatching layer intercepts CUDA calls, redirects I/O, replaces weak Bayesian defaults, parallelizes preprocessing — **zero modifications to vendor source.**
+* **Self-Destructing HPC Training:** Terraform provisions a `c2d-standard-32` GCE instance, Docker pulls the signed image, preprocessing runs in parallel across 32 cores, the Bayesian model trains, artifacts are sterilized → signed → provenanced → uploaded, and the instance deletes itself. Every run leaves a `provenance.json` birth certificate.
+* **Cloud-to-Edge Streaming Pipeline:** NASA HDF5 telemetry → Parquet staging → Redpanda fleet simulator → Bayesian inference consumer (30-cycle sliding window, dual-domain Z-score recovery) → Streamlit Sentinel with LOWESS smoothing and real-time uncertainty (σ) visualization.
+* **EU AI Act Compliance:** SafeTensors (zero RCE), Sigstore/Cosign (keyless attestation), KMS CMEK encryption (90-day key rotation), non-root containers (UID 1000), immutable provenance manifests, fail-closed forensic recovery on every exit path.
+
+---
+
+### ✈️ [ [ HIGH INTENSIVE ] 100 aircrafts Go streaming telemetry engine](https://github.com/stan-buren/cmapss-streaming-pipeline)
+> **Expand 1 row in csv into 3 hours of an aircraft engine telemetry.**
+> **Now do it for 100 aircrafts at the same time**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Redpanda](https://img.shields.io/badge/Redpanda-FF0000?style=flat-square&logo=redpanda&logoColor=white)
@@ -159,7 +174,9 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 *   **Zero-Copy BigQuery DWH:** Integrates BigQuery External Tables to automatically discover GCS partitions, enabling analytics without data duplication.
 *   **Analytics Engineering & BI:** Implements staging and metrics mart layers in **dbt** (calculating running averages of exhaust temperature margins) and visualizes engine degradation in a **Streamlit** dashboard.
 
-### 🎭 [Emozika Theatre Website](https://github.com/stan-buren/emozika-theatre) ([Live Site](https://emocika-teatr.ru/))
+### 🎭 [Russian Children Educational Theatre-Studio Website](https://github.com/stan-buren/emozika-theatre) 
+[Live Site - studio](https://emocika-teatr.ru/)
+[Live Site - play](https://lubov.emocika-teatr.ru/))
 > **A modern, data-driven static website for a children's theatre studio in Saint Petersburg.**
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
@@ -168,13 +185,6 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-Designed as a responsive, content-rich web platform for a real children's theatre studio. Originally built on vanilla HTML/JS, the site was refactored into a modular, high-performance static site using Astro and JSON-driven content schemas.
-
-*   **Astro Architecture Migration:** Refactored the codebase from a monolithic layout into a multi-page static site utilizing reusable **Astro components** and layouts.
-*   **JSON-Driven Content Modeling:** Decoupled structural data (repertoire, scheduling, FAQs) from HTML, storing them as clean **JSON collections** rendered dynamically inside Astro templates.
-*   **Advanced Styling with Sass:** Reorganized custom styles using modular **SCSS** variables, nested nesting, and structured mixins compiled via **Vite**.
-*   **Third-Party Afisha Integration:** Seamlessly embeds the **Yandex.Afisha** widget, letting users browse shows and securely purchase tickets inline.
-*   **SEO & Performance Optimization:** Generated zero-JS static HTML outputs, ensuring sub-second load times, excellent web vitals, and search engine indexability.
 
 ---
 
