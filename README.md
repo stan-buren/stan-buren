@@ -205,12 +205,12 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ---
 
 ### 🎭 [ [ FRONTEND ] Russian Children Educational Theatre-Studio Website](https://github.com/stan-buren/emozika-theatre) 
+> **A modern, data-driven static website for a children's theatre studio in Saint Petersburg.**
 
 [**Live Site - studio**](https://emocika-teatr.ru/)
 
 [**Live Site - play**](https://lubov.emocika-teatr.ru/)
 
-> **A modern, data-driven static website for a children's theatre studio in Saint Petersburg.**
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
