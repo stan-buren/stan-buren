@@ -61,6 +61,7 @@ Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern A
 ![Traefik](https://img.shields.io/badge/TRAEFIK-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![sing-box](https://img.shields.io/badge/SING--BOX-VLESS_REALITY-00BFFF?style=for-the-badge)
 
 ### ⚙️ Data Engineering
 ![PySpark](https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -93,12 +94,24 @@ Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern A
 ![pre-commit](https://img.shields.io/badge/PRE--COMMIT-FAB040?style=for-the-badge&logo=precommit&logoColor=black)
 ![git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌐 Web & Self-Hosted
+### 🌐 Web
 ![Astro](https://img.shields.io/badge/ASTRO-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/NEXTCLOUD-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
-![Mattermost](https://img.shields.io/badge/MATTERMOST-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)
+
+### 🏠 Self-Hosted Services
+![Nextcloud](https://img.shields.io/badge/NEXTCLOUD-Cloud_Stack-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Immich](https://img.shields.io/badge/IMMICH-Photos-4255FF?style=for-the-badge&logo=immich&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/VAULTWARDEN-Passwords-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
+![Mattermost](https://img.shields.io/badge/MATTERMOST-Chat-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)
+![Navidrome](https://img.shields.io/badge/NAVIDROME-Music-2A5C82?style=for-the-badge&logo=navidrome&logoColor=white)
+![Audiobookshelf](https://img.shields.io/badge/AUDIOBOOKSHELF-Audiobooks-C68A53?style=for-the-badge)
+![AdGuard Home](https://img.shields.io/badge/ADGUARD-DNS_Filter-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
+![Unbound](https://img.shields.io/badge/UNBOUND-Recursive_DNS-3B8132?style=for-the-badge)
+![Uptime Kuma](https://img.shields.io/badge/UPTIME_KUMA-Monitoring-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OPENCLAW-AI_Gateway-black?style=for-the-badge)
+![Hermes](https://img.shields.io/badge/HERMES-AI_Agent-white?style=for-the-badge&logo=openai&logoColor=black)
 
 
 ## Certificates
@@ -191,7 +204,7 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 
 ---
 
-### 🎭 [Russian Children Educational Theatre-Studio Website](https://github.com/stan-buren/emozika-theatre) 
+### 🎭 [ [ FRONTEND ] Russian Children Educational Theatre-Studio Website](https://github.com/stan-buren/emozika-theatre) 
 
 [**Live Site - studio**](https://emocika-teatr.ru/)
 
@@ -207,7 +220,7 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 
 ---
 
-### 🏠 [ [ INFRA ] Home Lab: Self-Hosted Infrastructure Cluster ](https://nextcloud.stan-buren.ru)
+### 🏠 [ [ INFRA ] Home Lab: Self-Hosted Infrastructure Cluster run on old laptops](https://nextcloud.stan-buren.ru)
 
 > **20+ Docker services across 3 bare-metal Ubuntu nodes. Custom domain, automatic TLS, remote access from anywhere via sing-box tunnel. No SaaS.**
 
@@ -217,6 +230,7 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ![Let's Encrypt](https://img.shields.io/badge/TLS-Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 ![sing-box](https://img.shields.io/badge/sing--box-VLESS_REALITY-00BFFF?style=flat-square)
 ![AdGuard](https://img.shields.io/badge/AdGuard_Home-DNS-68BC71?style=flat-square&logo=adguard&logoColor=white)
+![Unbound](https://img.shields.io/badge/UNBOUND-Recursive_DNS-3B8132?style=for-the-badge)
 ![Immich](https://img.shields.io/badge/Immich-Google_Photos_Killer-4255FF?style=flat-square&logo=immich&logoColor=white)
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-Bitwarden_API-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Gateway-black?style=flat-square)
@@ -226,13 +240,13 @@ Three physical machines — a Dell tower, an ASUS laptop, and an HP workstation 
 
 * **Cloud & Productivity Self-Hosting:** **Nextcloud** replaces Google Drive + Google Calendar + Google Contacts — files, calendars, contacts, and kanban boards via Deck. **Vaultwarden** (Bitwarden-compatible) holds every password for the whole family, secured behind the same reverse proxy. **Mattermost** runs team chat with full message history. **Actual Budget** tracks personal finances with envelope budgeting.
 * **AI Agent Infrastructure:** **OpenClaw** runs as a 24/7 AI gateway on the home server — heartbeats, cron jobs, background sub-agents for long-running tasks. **Hermes** is the personal laptop agent, governing the same infrastructure through MCP servers. Both agents share a persistent memory system with daily logs and curated long-term memory. Agents provision other agents — scoped app-passwords, SSH configs, validated YAML — under the same "backup first, verify after" discipline as production infrastructure.
-* **Media Server Suite:** **Immich** auto-backs up phone photos with face recognition and shared albums (Google Photos replacement). **Navidrome** streams the music library to any Subsonic-compatible client. **Audiobookshelf** serves audiobooks and podcasts with per-user progress, chapter support, and sleep timers. **AutoM4B** automates audiobook chapterization and conversion. **Jellyfin** handles video streaming with hardware transcoding.
-* **Network & Security:** **AdGuard Home** blocks ads and trackers at the DNS level for every device on the network. **sing-box** (VLESS+REALITY protocol) provides an encrypted tunnel back home from anywhere in the world — split-tunnel routing sends Russian traffic direct, international traffic through a Swiss VPN exit node. **Uptime Kuma** monitors every service and pings Telegram on failure.
+* **Media Server Suite:** **Immich** auto-backs up phone photos with face recognition and shared albums (Google Photos replacement). **Navidrome** streams the music library to any Subsonic-compatible client. **Audiobookshelf** serves audiobooks and podcasts with per-user progress, chapter support, and sleep timers. **AutoM4B** automates audiobook chapterization and conversion.
+* **Network & Security:** **AdGuard Home** blocks ads and trackers at the DNS level for every device on the network, then forwards clean queries to **Unbound**. **sing-box** (VLESS+REALITY protocol) provides an encrypted tunnel back home from anywhere in the world — split-tunnel routing sends Russian traffic direct, international traffic through a VPN exit node. **Uptime Kuma** monitors every service and pings Telegram on failure.
 * **Observability Stack:** **Grafana** dashboards visualize system metrics collected by **Prometheus** and **node_exporter** on each machine — CPU, memory, disk I/O, network throughput, Docker container status. **Homepage** provides a centralized launchpad for all 20+ services.
 * * **Privacy Research Tools:** **SearXNG** runs as a private metasearch engine — queries never leave the server. **Invidious** provides a tracking-free YouTube frontend. **Yattee** connects to a self-hosted backend for privacy-respecting video playback.
+* **Power Resilience:** A **CBR 850 UPS** monitored via NUT (Network UPS Tools) is connected to the ASUS master. On grid failure, it signals clean shutdowns across all three nodes — preventing filesystem corruption and Docker state loss before the battery drains.
+* **Apache Spark 4.1.1 cluster** spans all three nodes.
 * **Planned:** **K3s** (lightweight Kubernetes) to orchestrate workloads across all 3 nodes as a proper cluster, with automated failover and load balancing.
-
-> Photos aren't in Google Photos. Passwords aren't in LastPass. Files aren't in Dropbox. Chat isn't in Slack. Not even my AI agents live in the cloud. Everything runs on three Linux boxes behind a reverse proxy, and that's the point.
 
 ---
 
