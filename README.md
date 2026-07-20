@@ -22,17 +22,17 @@ Combines **3+ years of BI analytical experience** with **2+ years of hands-on en
 
 ### 🎯 Data is my love
 
-> **"What may by better when a clean data mart?"**
+> **"What may be better then a clean data mart?"**
 
 For me it is a simple question. Bring me a messy data, tell me what to do and I will simply do it. 
 
 Actually **I** means **me** and all my **AI assistants**. 
 
-**3+ yaers** of running **my own business** tought me how to **delegate** and **focus on the mission**. 
+**3+ years** of running **my own business** taught me how to **delegate** and **focus on the mission**. 
 
 #### AI era brings this skills on top of the another era of productivity.
 
-Finally I may focus on bringing the best that I can in this world. Enriching meaningfull data, building reliable, scalable and solid data foundations focused on the buisiness and it's decisions.
+Finally I may focus on bringing the best that I can in this world. Enriching meaningful data, building reliable, scalable and solid data foundations focused on the business and its decisions.
 
 ...testing, governing, and securing it along the way—especially when navigating strict compliance frameworks like **DORA** and the **EU AI Act**.
 
@@ -40,7 +40,7 @@ Finally I may focus on bringing the best that I can in this world. Enriching mea
 
 ### Background
 
-I've been an **opera singer and dancer**, travelled across 100+ cities accros Russia with famous Saint-Petersburg rock-opera "Jesus Christ Superstar". A **children movies filmmaker** and **scriptwriter**. I worked as a **lawer** for 6 months. I've been an **e-commerce businessman** for over 3 years, building financial analysis for myself. As time goes by I realise two fings: I _love data_ and I want to _stop all my business_ and _relocate from Russia_.
+I've been an **opera singer and dancer**, travelled across 100+ cities across Russia with famous Saint-Petersburg rock-opera "Jesus Christ Superstar". A **children movies filmmaker** and **scriptwriter**. I worked as a **lawyer** for 6 months. I've been an **e-commerce businessman** for over 3 years, building financial analysis for myself. As time goes by I realise two things: I _love data_ and I want to _stop all my business_ and _relocate from Russia_.
 
 I decided to live near Data Lake in a cosy Data Warehouse with a DuckDB in it, Redpanda on it's roof and B-Trees all other the place.
 
