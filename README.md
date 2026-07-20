@@ -30,7 +30,7 @@ Actually **I** means **me** and all my **AI assistants**.
 
 **3+ yaers** of running **my own business** tought me how to **delegate** and **focus on the mission**. 
 
-## AI era brings this skills on top of the another era of productivity.
+#### AI era brings this skills on top of the another era of productivity.
 
 Finally I may focus on bringing the best that I can in this world. Enriching meaningfull data, building reliable, scalable and solid data foundations focused on the buisiness and it's decisions.
 
