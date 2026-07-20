@@ -210,14 +210,14 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/TLS-Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
-![sing-box](https://img.shields.io/badge/sing--box-VLESS_REALITY-00BFFF?style=flat-square)
-![AdGuard](https://img.shields.io/badge/AdGuard_Home-DNS-68BC71?style=flat-square&logo=adguard&logoColor=white)
-![Unbound](https://img.shields.io/badge/UNBOUND-Recursive_DNS-3B8132?style=flat-square)
-![Immich](https://img.shields.io/badge/Immich-Google_Photos_Killer-4255FF?style=flat-square&logo=immich&logoColor=white)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-Bitwarden_API-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Gateway-black?style=flat-square)
-![Hermes](https://img.shields.io/badge/Hermes-MacBook_Agent-white?style=flat-square)
+![Let's Encrypt](https://img.shields.io/badge/TLS-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![sing-box](https://img.shields.io/badge/sing--box-00BFFF?style=flat-square)
+![AdGuard](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
+![Unbound](https://img.shields.io/badge/UNBOUND-3B8132?style=flat-square)
+![Immich](https://img.shields.io/badge/Immich-4255FF?style=flat-square&logo=immich&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-black?style=flat-square)
+![Hermes](https://img.shields.io/badge/Hermes-white?style=flat-square)
 
 Three physical machines — a Dell tower, an ASUS laptop, and an HP workstation — all running Ubuntu 24.04 LTS, operating as a distributed home cluster. 
 Every service is containerized, reverse-proxied through Traefik with automatic Let's Encrypt TLS, and accessible from anywhere through the https://... domain. 
