@@ -18,6 +18,7 @@
 #### I'm Stan Büren
 
 **Data Engineer** and **Data Analyst**, looking forward into a **Data Architecture**, **MLOps** fields.
+
 **3+ years of BI analytical experience** with **2+ years of hands-on engineering and programming experience** within production environments, science, EU energy and e-commerce.
 
 ---
