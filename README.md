@@ -164,14 +164,15 @@ A solo-built, open-source data platform for ENTSO-E — the European electricity
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.11-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SafeTensors](https://img.shields.io/badge/SafeTensors-zero_RCE-00C7B7?style=flat-square)
-![Sigstore](https://img.shields.io/badge/Cosign-Keyless_Signing-000000?style=flat-square&logo=sigstore&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Non_Root-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-3_Modules-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-HPC_32_Core-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-Analytical_DWH-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-Sentinel-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Marts-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Redpanda](https://img.shields.io/badge/Redpanda-Kafka_API-FF5500?style=flat-square&logo=apachekafka&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Sentinel-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SafeTensors](https://img.shields.io/badge/SafeTensors-zero_RCE-00C7B7?style=flat-square)
+![Sigstore](https://img.shields.io/badge/Cosign-Keyless_Signing-000000?style=flat-square&logo=sigstore&logoColor=white)
 
 A researcher wrote a Bayesian CNN for aircraft engine failure prediction. It works on his GPU. This repo makes it production-ready: CPU-only via adaptive runtime shim, SafeTensors instead of pickle, Sigstore keyless signing, and a 4-node real-time streaming pipeline (Redpanda → Bayesian inference → DuckDB → Streamlit dashboard).
 
