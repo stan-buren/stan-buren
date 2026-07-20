@@ -252,8 +252,10 @@ Feel free to reach out here:
 
 ---
 
-I decided to live near Data Lake in a cosy Data Warehouse with a DuckDB, chewing SeaweedFS in it, and Pandas walking beside B-Trees all other the place. 
-Hold on my Kafka book, you see the Iseberg here? Lets Go here to see some Linux penguins, and Polars. 
+Come across the Data Lake see a cosy Data Warehouse with a DuckDB, chewing SeaweedFS in it? There are Pandas walking beside B-Trees all other the place.
+
+Hold on my Kafka book, you see that giant Iseberg in the niddle of the DataLake? Lets Go here to see some Linux penguins, and Polars. 
+
 Lay down, my friend, the sun sets below the horison. There will be PySparks soon. 
 
   
