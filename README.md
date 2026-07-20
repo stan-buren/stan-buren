@@ -252,9 +252,11 @@ Feel free to reach out here:
 
 ---
 
-Come across the Data Lake see a cosy Data Warehouse with a DuckDB, chewing SeaweedFS in it? There are Pandas walking beside B-Trees all other the place.
+Come across the Data Lake. Do you see this Data Warehouse with a DuckDB sitiing on the roof tiles, chewing SeaweedFS? 
 
 Hold on my Kafka book, you see that giant Iseberg in the niddle of the DataLake? Lets Go here to see some Linux penguins, and Polars. 
+
+There are Pandas walking beside B-Trees all other the place.
 
 Lay down, my friend, the sun sets below the horison. There will be PySparks soon. 
 
