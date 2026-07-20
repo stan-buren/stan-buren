@@ -11,7 +11,9 @@
 
 </div>
 
-### Hi 👋
+## Hi, wayfarer
+
+### sit down, and be my guest.
 
 #### I'm Stan Büren
 
