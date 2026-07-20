@@ -21,7 +21,7 @@
 
 ---
 
-### I lobe Data
+### I love Data
 
 > **"What may be better than a clean data mart?"**
 
