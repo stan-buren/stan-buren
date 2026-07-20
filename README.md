@@ -15,27 +15,34 @@
 
 #### I'm Stan Büren
 
-**Forward-thinking Data Engineer** evolving into a **Data Architect**, skilled in building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. Combines **3+ years of BI analytical experience** with **2+ years of hands-on engineering and programming experience** within production environments.
-
-
----
-
-### 🎯 Core Philosophy
-
-> **"My architectural focus is on treating data as a product."**
-
-*   **Quality-First Engineering:** I prioritize data quality and apply rigorous software engineering best practices to distributed systems so that downstream analysts and data scientists can derive value without friction.
-*   **Declarative Logic:** I strongly advocate for declarative, easily readable logic, such as modular SQL in **dbt** or well-documented **PySpark** transformations. 
-*   **Production Stability:** A robust pipeline is not just about moving data from Point A to Point B; it is about testing, governing, and securing it along the way—especially when navigating strict compliance frameworks like **DORA** and the **EU AI Act**.
+**Data Engineer** and **Data Analyst**, looking forward into a **Data Architecture**, **MLOps** fields, skilled in building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. 
+Combines **3+ years of BI analytical experience** with **2+ years of hands-on engineering and programming experience** within production environments, science, EU energy and e-commerce.
 
 ---
 
-### 💡 The Engineering Intersection
+### 🎯 Data is my love
 
-To me, data engineering is the ultimate intersection of **security**, **data management**, **DataOps**, **data architecture**, **orchestration**, and **software engineering**. I am highly communicative, endlessly curious, and deeply passionate about continuous learning.
+> **"What may by better when a clean data mart?"**
 
-Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern AI tooling in my daily workflows to significantly boost my productivity, accelerate my learning curve, and deliver faster, higher-quality results for the business.
+For me it is a simple question. Bring me a messy data, tell me what to do and I will simply do it. 
 
+Actually **I** means **me** and all my **AI assistants**. 
+
+**3+ yaers** of running **my own business** tought me how to **delegate** and **focus on the mission**. 
+
+## AI era brings this skills on top of the another era of productivity.
+
+Finally I may focus on bringing the best that I can in this world. Enriching meaningfull data, building reliable, scalable and solid data foundations focused on the buisiness and it's decisions.
+
+...testing, governing, and securing it along the way—especially when navigating strict compliance frameworks like **DORA** and the **EU AI Act**.
+
+---
+
+### Background
+
+I've been an **opera singer and dancer**, travelled across 100+ cities accros Russia with famous Saint-Petersburg rock-opera "Jesus Christ Superstar". A **children movies filmmaker** and **scriptwriter**. I worked as a **lawer** for 6 months. I've been an **e-commerce businessman** for over 3 years, building financial analysis for myself. As time goes by I realise two fings: I _love data_ and I want to _stop all my business_ and _relocate from Russia_.
+
+I decided to live near Data Lake in a cosy Data Warehouse with a DuckDB in it, Redpanda on it's roof and B-Trees all other the place.
 
 ## 🛠 Tech Stack
 
