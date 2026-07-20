@@ -89,7 +89,6 @@ Lay down, my friend, the sun sets below the horison. There will be PySparks soon
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![TensorBoard](https://img.shields.io/badge/TENSORBOARD-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/LOOKER_STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ### 🛠️ Dev Tools
@@ -103,6 +102,7 @@ Lay down, my friend, the sun sets below the horison. There will be PySparks soon
 
 ### 🧠 ML
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TENSORBOARD-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🔒 Security
 ![SafeTensors](https://img.shields.io/badge/SAFETENSORS-00C7B7?style=for-the-badge)
