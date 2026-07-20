@@ -13,7 +13,7 @@
 
 ## Hi, wayfarer
 
-### sit down, and be my guest.
+### come closer, sit down, and be my guest.
 
 #### I'm Stan Büren
 
@@ -45,10 +45,6 @@ Especially when navigating strict compliance frameworks like **DORA** and the **
 I've been an **opera singer and dancer**, travelled across 100+ cities across Russia with famous Saint-Petersburg rock-opera "Jesus Christ Superstar". A **children movies filmmaker** and **scriptwriter**. I worked as a **lawyer** for 6 months. I've been an **e-commerce businessman** for over 3 years, building financial analysis for myself. As time goes by I realise two things: I _love data_ and I want to _stop all my business_ and _relocate from Russia_.
 
 ---
-
-I decided to live near Data Lake in a cosy Data Warehouse with a DuckDB, chewing SeaweedFS in it, and Pandas walking beside B-Trees all other the place. 
-Hold on my Kafka book, you see the Iseberg here? Lets Go here to see some Linux penguins, and Polars. 
-Lay down, my friend, the sun sets below the horison. There will be PySparks soon. 
 
 ## 🛠 Tech Stack
 
@@ -258,4 +254,11 @@ Feel free to reach out here:
 *   💬 **Telegram:** [@stan_buren](https://t.me/stan_buren)
 *   🐦 **X (Twitter):** [@stan_buren](https://x.com/stan_buren)
 *   📧 **Email:** [stan-buren-dev@proton.me](mailto:stan-buren-dev@proton.me)
+
+---
+
+I decided to live near Data Lake in a cosy Data Warehouse with a DuckDB, chewing SeaweedFS in it, and Pandas walking beside B-Trees all other the place. 
+Hold on my Kafka book, you see the Iseberg here? Lets Go here to see some Linux penguins, and Polars. 
+Lay down, my friend, the sun sets below the horison. There will be PySparks soon. 
+
   
