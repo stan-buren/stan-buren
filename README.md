@@ -34,7 +34,7 @@ Actually **I** means **me** and all my **AI assistants**.
 
 #### AI era brings this skills on top of the another era of productivity.
 
-Finally I may focus on bringing the best that I can in this world. Enriching meaningful data, building reliable, scalable and solid data foundations focused on the business and its decisions.
+Finally shifting main focus on bringing the best that I can in this world. Enriching meaningful data, building reliable, scalable and solid data foundations focused on the business and its decisions.
 ...testing, governing, and securing it along the way. 
 Especially when navigating strict compliance frameworks like **DORA** and the **EU AI Act**.
 
