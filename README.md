@@ -25,15 +25,12 @@ Combines **3+ years of BI analytical experience** with **2+ years of hands-on en
 > **"What may be better then a clean data mart?"**
 
 For me it is a simple question. Bring me a messy data, tell me what to do and I will simply do it. 
-
 Actually **I** means **me** and all my **AI assistants**. 
-
 **3+ years** of running **my own business** taught me how to **delegate** and **focus on the mission**. 
 
 #### AI era brings this skills on top of the another era of productivity.
 
 Finally I may focus on bringing the best that I can in this world. Enriching meaningful data, building reliable, scalable and solid data foundations focused on the business and its decisions.
-
 ...testing, governing, and securing it along the way—especially when navigating strict compliance frameworks like **DORA** and the **EU AI Act**.
 
 ---
