@@ -84,12 +84,6 @@ Lay down, my friend, the sun sets below the horison. There will be PySparks soon
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/POLARS-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
-### 🧠 ML & MLOps
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Bayesian CNN](https://img.shields.io/badge/BAYESIAN_CNN-Flipout-9B59B6?style=for-the-badge&logo=pytorch&logoColor=white)
-![SafeTensors](https://img.shields.io/badge/SAFETENSORS-zero_RCE-00C7B7?style=for-the-badge)
-![Sigstore](https://img.shields.io/badge/SIGSTORE_COSIGN-000000?style=for-the-badge&logo=sigstore&logoColor=white)
-
 ### 📊 Observability
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -105,6 +99,13 @@ Lay down, my friend, the sun sets below the horison. There will be PySparks soon
 ![Trivy](https://img.shields.io/badge/TRIVY-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/PRE--COMMIT-FAB040?style=for-the-badge&logo=precommit&logoColor=black)
 ![git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧠 ML
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🔒 Security
+![SafeTensors](https://img.shields.io/badge/SAFETENSORS-00C7B7?style=for-the-badge)
+![Sigstore](https://img.shields.io/badge/SIGSTORE_COSIGN-000000?style=for-the-badge&logo=sigstore&logoColor=white)
 
 ### 🌐 Web
 ![Astro](https://img.shields.io/badge/ASTRO-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
