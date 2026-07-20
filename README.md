@@ -11,11 +11,11 @@
 
 </div>
 
-### Hi there 👋
+### Hi 👋
 
 #### I'm Stan Büren
 
-**Forward-thinking Data Engineer** evolving into a **Data Architect**, skilled in building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. Combines **3+ years of business & compliance experience** with **2+ years of hands-on engineering and programming experience** within production environments.
+**Forward-thinking Data Engineer** evolving into a **Data Architect**, skilled in building reliable, scalable, and secure data foundations that turn raw data into actionable business insights. Combines **3+ years of BI analytical experience** with **2+ years of hands-on engineering and programming experience** within production environments.
 
 
 ---
@@ -61,7 +61,6 @@ Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern A
 ![Traefik](https://img.shields.io/badge/TRAEFIK-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![sing-box](https://img.shields.io/badge/SING--BOX-VLESS_REALITY-00BFFF?style=for-the-badge)
 
 ### ⚙️ Data Engineering
 ![PySpark](https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -98,21 +97,6 @@ Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern A
 ![Astro](https://img.shields.io/badge/ASTRO-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### 🏠 Self-Hosted Services
-![Nextcloud](https://img.shields.io/badge/NEXTCLOUD-Cloud_Stack-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
-![Immich](https://img.shields.io/badge/IMMICH-Photos-4255FF?style=for-the-badge&logo=immich&logoColor=white)
-![Vaultwarden](https://img.shields.io/badge/VAULTWARDEN-Passwords-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
-![Mattermost](https://img.shields.io/badge/MATTERMOST-Chat-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)
-![Navidrome](https://img.shields.io/badge/NAVIDROME-Music-2A5C82?style=for-the-badge&logo=navidrome&logoColor=white)
-![Audiobookshelf](https://img.shields.io/badge/AUDIOBOOKSHELF-Audiobooks-C68A53?style=for-the-badge)
-![AdGuard Home](https://img.shields.io/badge/ADGUARD-DNS_Filter-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
-![Unbound](https://img.shields.io/badge/UNBOUND-Recursive_DNS-3B8132?style=for-the-badge)
-![Uptime Kuma](https://img.shields.io/badge/UPTIME_KUMA-Monitoring-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=white)
-![Grafana](https://img.shields.io/badge/GRAFANA-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OPENCLAW-AI_Gateway-black?style=for-the-badge)
-![Hermes](https://img.shields.io/badge/HERMES-AI_Agent-white?style=for-the-badge&logo=openai&logoColor=black)
-
 
 ## Certificates
 
@@ -224,8 +208,8 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 > **20+ Docker services across 3 bare-metal Ubuntu nodes. Custom domain, automatic TLS, remote access from anywhere via sing-box tunnel. No SaaS.**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-Reverse_Proxy-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/TLS-Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 ![sing-box](https://img.shields.io/badge/sing--box-VLESS_REALITY-00BFFF?style=flat-square)
 ![AdGuard](https://img.shields.io/badge/AdGuard_Home-DNS-68BC71?style=flat-square&logo=adguard&logoColor=white)
