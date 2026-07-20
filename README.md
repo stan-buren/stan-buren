@@ -43,7 +43,7 @@ Especially when navigating strict compliance frameworks like **DORA** and the **
 
 ### Background
 
-I've been an **opera singer and dancer**, travelled across 100+ cities across Russia with famous Saint-Petersburg rock-opera "Jesus Christ Superstar". A **children movies filmmaker** and **scriptwriter**. I worked as a **lawyer** for 6 months. I've been an **e-commerce businessman** for over 3 years, building financial analysis for myself. As time goes by I realise two things: I _love data_ and I want to _stop all my business_ and _relocate from Russia_.
+I've been an **opera singer and dancer**, travelled across 100+ cities across Russia with famous Saint-Petersburg rock-opera "Jesus Christ Superstar". A **children movies filmmaker** and **scriptwriter**. I worked as a **lawyer** for 6 months. I've been an **e-commerce businessman** for over 3 years, building financial analysis for myself. As time goes by I realise two things: I _love data_ and I want to _stop all my business_ in my native country and _relocate to Georgia_. 
 
 ---
 
