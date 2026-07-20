@@ -126,9 +126,7 @@ A solo-built, open-source data platform for ENTSO-E — the European electricity
 
 * **YAML-Driven SSOT Architecture:** All configuration declarative: `paths.yml` for filesystem layout, `publications.yml` for 89 data sources. AST-based quality gates prevent hardcoding. Environment-aware (PROD/IOP).
 * **Delta Sync & Idempotent Loads:** What was a 3-hour full FTP crawl is now a ~5-minute delta check. PySpark `MERGE INTO` Iceberg with stable keys — blow the pipeline away, rerun, same result.
-* **ADR-Driven Solo Engineering:** 10 Architecture Decision Records documenting every trade-off: YAML→PostgreSQL migration (ADR-008: 12.4 GB RAM → O(1) memory), ephemeral landing zone (ADR-004), dynamic schema inference (ADR-010).
-* **Open-Source Contributions:** Merged fix in PyPSA-Eur (PR #2211), data quality PR in powerplantmatching under review (PR #306: recovered 99.99% of silently dropped identifiers).
-
+* **ADR-Driven Engineering:** 10 Architecture Decision Records documenting every trade-off: YAML→PostgreSQL migration (ADR-008: 12.4 GB RAM → O(1) memory), ephemeral landing zone (ADR-004), dynamic schema inference (ADR-010).
 ---
 
 ### 🛡️ [ [ HIGH RISK ] Aircraft turbine Digital Twin: Predictive Maintenance in Real Time](https://github.com/stan-buren/n-cmapss-rul-mlops-factory)
