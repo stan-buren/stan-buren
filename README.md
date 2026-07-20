@@ -74,6 +74,7 @@ Lay down, my friend, the sun sets below the horison. There will be PySparks soon
 ![Traefik](https://img.shields.io/badge/TRAEFIK-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-SQL_Engine-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
 
 ### ⚙️ Data Engineering
 ![PySpark](https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
