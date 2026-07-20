@@ -207,7 +207,7 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-black?style=flat-square)
 ![Hermes](https://img.shields.io/badge/Hermes-white?style=flat-square)
 
-Three physical machines — a Dell tower, an ASUS laptop, and an HP workstation — all running Ubuntu 24.04 LTS, operating as a distributed home cluster. 
+Three physical machines. All running Ubuntu 24.04 LTS, operating as a distributed home cluster. 
 Every service is containerized, reverse-proxied through Traefik with automatic Let's Encrypt TLS, and accessible from anywhere through the https://... domain. 
 
 * **Cloud & Productivity Self-Hosting:** **Nextcloud** - local-first local cloud. **Vaultwarden** (Bitwarden-compatible) holds every password. **Mattermost** runs personal chat. **Actual Budget** tracks personal finances.
