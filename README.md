@@ -100,22 +100,7 @@ I've been an **opera singer and dancer**, travelled across 100+ cities across Ru
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Certificates
-
-<p align="center">
-  <a href="https://certificates.cs50.io/4dc4ae2b-731f-4db5-80df-fb76c93cff2d" target="_blank">
-    <img src="https://certificates.cs50.io/4dc4ae2b-731f-4db5-80df-fb76c93cff2d.png?size=letter" width="48%" alt="CS50 Certificate 1" />
-  </a>
-  <a href="https://certificates.cs50.io/3ec86847-1a54-4293-84fe-25fcbfd53c89" target="_blank">
-    <img src="https://certificates.cs50.io/3ec86847-1a54-4293-84fe-25fcbfd53c89.png?size=letter" width="48%" alt="CS50 Certificate 2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://certificate.datatalks.club/dezoomcamp/2026/ff6f422c84273af947313da6afec88f21299e1b2.pdf" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2c82d0b9-e44c-43dd-9ce0-65916804a2ee" width="70%" alt="Data Engineering Zoomcamp Certificate" />
-  </a>
-</p>
+---
 
 ## 📁 Projects
 
@@ -234,6 +219,25 @@ Every service is containerized, reverse-proxied through Traefik with automatic L
 * **Power Resilience:** A **CBR 850 UPS** monitored via NUT (Network UPS Tools). Activates custom bash script for the graceful cluster poweroff.
 * **Apache Spark 4.1.1 cluster** spans all three nodes. Queries uses all cores across laptops.
 * **Planned:** **K3s** (lightweight Kubernetes) to orchestrate workloads across all 3 nodes as a proper cluster, with automated failover and load balancing.
+
+---
+
+## Certificates
+
+<p align="center">
+  <a href="https://certificates.cs50.io/4dc4ae2b-731f-4db5-80df-fb76c93cff2d" target="_blank">
+    <img src="https://certificates.cs50.io/4dc4ae2b-731f-4db5-80df-fb76c93cff2d.png?size=letter" width="48%" alt="CS50 Certificate 1" />
+  </a>
+  <a href="https://certificates.cs50.io/3ec86847-1a54-4293-84fe-25fcbfd53c89" target="_blank">
+    <img src="https://certificates.cs50.io/3ec86847-1a54-4293-84fe-25fcbfd53c89.png?size=letter" width="48%" alt="CS50 Certificate 2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://certificate.datatalks.club/dezoomcamp/2026/ff6f422c84273af947313da6afec88f21299e1b2.pdf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2c82d0b9-e44c-43dd-9ce0-65916804a2ee" width="70%" alt="Data Engineering Zoomcamp Certificate" />
+  </a>
+</p>
 
 ---
 
