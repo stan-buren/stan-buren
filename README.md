@@ -28,6 +28,7 @@
 > **"What may be better than a clean data mart?"**
 
 For me it is a simple question. Bring me a messy data, tell me what to do and I will simply do it. 
+
 Actually **I** means **me** and all my **AI assistants**. 
 **3+ years** of running **my own business** taught me how to **delegate** and **focus on the mission**. 
 
