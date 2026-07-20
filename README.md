@@ -21,11 +21,13 @@
 
 ---
 
-### 🎯 Data is my love
+### I lobe Data
 
 > **"What may be better than a clean data mart?"**
 
-For me it is a simple question. Bring me a messy data, tell me what to do and I'll simply do it. 
+For me it is a simple question. 
+
+Bring me a messy data, tell me what to do and I'll simply do it. 
 
 Actually **I** means **me** and all my **AI assistants**. 
 
@@ -33,8 +35,10 @@ Actually **I** means **me** and all my **AI assistants**.
 
 #### AI era brings this skills on top of the another era of productivity.
 
-Finally shifting main focus on bringing the best that I can in this world. Enriching meaningful data, building reliable, scalable and solid data foundations focused on the business and its decisions.
+Enriching meaningful data, building reliable, scalable and solid data foundations focused on the business and its decisions.
+
 ...testing, governing, and securing it along the way. 
+
 Especially when navigating strict compliance frameworks like **DORA** and the **EU AI Act**.
 
 ---
