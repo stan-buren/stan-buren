@@ -11,11 +11,9 @@
 
 </div>
 
-## Hi, wayfarer
+## Hi 
 
-### come closer, sit down, and be my guest.
-
-#### I'm Stan Büren
+### I'm Stan Büren
 
 **Data Engineer** and **Data Analyst**, looking forward into a **Data Architecture**, **MLOps** fields.
 
