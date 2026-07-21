@@ -21,22 +21,6 @@
 
 ---
 
-### I love Data
-
-> **"What may be better than a clean data mart?"**
-
-Bring me a messy data, tell me what to do and I'll simply do it. 
-
-Actually, **I** means **me** and all my **AI assistants**. 
-
----
-
-### Background
-
-I've been an **opera singer and dancer**, travelled across 100+ cities across Russia with famous Saint-Petersburg rock-opera "Jesus Christ Superstar". A **children movies filmmaker** and **scriptwriter**. I worked as a **lawyer** for 6 months. I've been an **e-commerce businessman** for over 3 years, building financial analysis for myself. As time passes by, I finally realise two things: I _love data_ and I want to _stop all my business_ at my native country and _relocate to Georgia_. 
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -189,9 +173,9 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 
 ---
 
-### 🏠 [ [ INFRA ] Home Lab: Self-Hosted Infrastructure Cluster run on old laptops](https://nextcloud.stan-buren.ru)
+### 💾 [ [ INFRA ] System administration ](https://nextcloud.stan-buren.ru)
 
-> **20+ Docker services across 3 bare-metal Ubuntu nodes. Custom domain, automatic TLS, remote access from anywhere via sing-box tunnel. No SaaS.**
+> **20+ Docker services across 3 bare-metal Ubuntu nodes. Custom domain, automatic TLS, remote access from anywhere via sing-box tunnel.**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -205,18 +189,17 @@ This project simulates a fleet of aircraft engines generating high-frequency tel
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-black?style=flat-square)
 ![Hermes](https://img.shields.io/badge/Hermes-white?style=flat-square)
 
-Three physical machines. All running Ubuntu 24.04 LTS, operating as a distributed home cluster. 
+Three physical machines. All running Ubuntu 24.04 LTS, operating as a distributed cluster. 
 Every service is containerized, reverse-proxied through Traefik with automatic Let's Encrypt TLS, and accessible from anywhere through the https://... domain. 
 
-* **Cloud & Productivity Self-Hosting:** **Nextcloud** - local-first local cloud. **Vaultwarden** (Bitwarden-compatible) holds every password. **Mattermost** runs personal chat. **Actual Budget** tracks personal finances.
-* **AI Agent Infrastructure:** **OpenClaw** AI assistant. **Hermes** Yet another Ai assistant.
-* **Media Server Suite:** **Immich** auto-backs up phone photos . **Navidrome** streams the music library to any Subsonic-compatible client. **Audiobookshelf** serves audiobooks and podcasts.
-* **Network & Security:** **AdGuard Home** blocks ads and trackers, then forwards clean queries to **Unbound**. **sing-box** (VPN tunnel) provides an encrypted tunnel back home. **Uptime Kuma** monitors every service.
-* **Observability Stack:** **Grafana** dashboards visualize system metrics collected by **Prometheus** and **node_exporter** on each machine. **Homepage** provides a centralized launchpad for all 20+ services.
-* **Privacy Research Tools:** **SearXNG** runs as a private metasearch engine. 
+* **Cloud & Productivity Self-Hosting:** **Nextcloud**. **Vaultwarden**. **Mattermost**.
+* **AI Agent Infrastructure:** **OpenClaw**. **Hermes**.
+* **Media Server Suite:** **Immich** . **Navidrome**. **Audiobookshelf**.
+* **Network & Security:** **sing-box**.
+* **Observability Stack:** **Grafana** dashboards visualize system metrics collected by **Prometheus** and **node_exporter** on each machine.
+* **Privacy Research Tools:** **SearXNG**. 
 * **Power Resilience:** A **CBR 850 UPS** monitored via NUT (Network UPS Tools). Activates custom bash script for the graceful cluster poweroff.
-* **Apache Spark 4.1.1 cluster** spans all three nodes. Queries uses all cores across laptops.
-* **Planned:** **K3s** (lightweight Kubernetes) to orchestrate workloads across all 3 nodes as a proper cluster, with automated failover and load balancing.
+* **Apache Spark 4.1.1 cluster**.
 
 ---
 
@@ -247,15 +230,3 @@ Feel free to reach out here:
 *   💬 **Telegram:** [@stan_buren](https://t.me/stan_buren)
 *   🐦 **X (Twitter):** [@stan_buren](https://x.com/stan_buren)
 *   📧 **Email:** [stan-buren-dev@proton.me](mailto:stan-buren-dev@proton.me)
-
----
-
-##### Come across the Data Lake. Do you see this Data Warehouse with a DuckDB sitiing on the roof tiles, chewing SeaweedFS? 
-
-##### Hold on my Kafka book, you see that giant Iseberg in the middle of the DataLake? Lets Go here to see some Linux penguins, and Polars. 
-
-##### There are Pandas walking beside B-Trees all other the place.
-
-##### Lay down, my friend, the sun sets below the horison. There will be PySparks soon. 
-
-  
