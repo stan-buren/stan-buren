@@ -11,7 +11,7 @@
 
 </div>
 
-## Hi 
+## Hi 👋
 
 ### I'm Stan Büren
 
